@@ -1,0 +1,2 @@
+(this.webpackJsonpproject_name=this.webpackJsonpproject_name||[]).push([[12],{403:function(e,n,t){"use strict";t.r(n);var c=t(2);n.default=function(){return Object(c.jsx)("div",{children:Object(c.jsx)("h1",{children:"Login Component"})})}}}]);
+//# sourceMappingURL=12.9688146f.chunk.js.map
