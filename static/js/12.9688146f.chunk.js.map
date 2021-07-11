@@ -1,1 +1,0 @@
-{"version":3,"sources":["modules/login/Login.tsx"],"names":["LoginComponent"],"mappings":"iIAQeA,UARQ,WACnB,OACI,8BACI","file":"static/js/12.9688146f.chunk.js","sourcesContent":["const LoginComponent = () => {\r\n    return (\r\n        <div>\r\n            <h1>Login Component</h1>\r\n        </div>\r\n    )\r\n}\r\n\r\nexport default LoginComponent;\r\n"],"sourceRoot":""}
