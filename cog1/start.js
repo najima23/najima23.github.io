@@ -8,7 +8,7 @@ require(["dojo", "dojo/parser", "dojo/domReady!"], function (dojo) {
     cacheBust: new Date(),
     waitSeconds: 5,
     paths: {
-      "cog1": "/cog1_JS_template/cog1",
+      cog1: "/cog1",
     },
     aliases: [
       ["app", "cog1/app"],
@@ -25,8 +25,8 @@ require(["dojo", "dojo/parser", "dojo/domReady!"], function (dojo) {
       ["texture", "cog1/texture"],
       ["animation", "cog1/animation"],
       ["data", "cog1/data"],
-      ["glMatrix", "cog1/ext/glMatrix.js"]
-    ]
+      ["glMatrix", "cog1/ext/glMatrix.js"],
+    ],
   });
 
   require(["app"], function (app) {
